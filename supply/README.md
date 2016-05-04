@@ -9,19 +9,19 @@
   </h4>
 </h3>
 <p align="center">
-  <a href="https://github.com/fastlane/fastlane/tree/master/deliver">deliver</a> &bull;
-  <a href="https://github.com/fastlane/fastlane/tree/master/snapshot">snapshot</a> &bull;
-  <a href="https://github.com/fastlane/fastlane/tree/master/screengrab">screengrab</a> &bull;
-  <a href="https://github.com/fastlane/fastlane/tree/master/frameit">frameit</a> &bull;
-  <a href="https://github.com/fastlane/fastlane/tree/master/pem">pem</a> &bull;
-  <a href="https://github.com/fastlane/fastlane/tree/master/sigh">sigh</a> &bull;
-  <a href="https://github.com/fastlane/fastlane/tree/master/produce">produce</a> &bull;
-  <a href="https://github.com/fastlane/fastlane/tree/master/cert">cert</a> &bull;
-  <a href="https://github.com/fastlane/fastlane/tree/master/spaceship">spaceship</a> &bull;
-  <a href="https://github.com/fastlane/fastlane/tree/master/pilot">pilot</a> &bull;
-  <a href="https://github.com/fastlane/boarding">boarding</a> &bull;
-  <a href="https://github.com/fastlane/fastlane/tree/master/gym">gym</a> &bull;
-  <a href="https://github.com/fastlane/fastlane/tree/master/scan">scan</a> &bull;
+  <a href="https://github.com/fastlane/fastlane/tree/master/deliver">deliver</a> 
+  <a href="https://github.com/fastlane/fastlane/tree/master/snapshot">snapshot</a> 
+  <a href="https://github.com/fastlane/fastlane/tree/master/screengrab">screengrab</a> 
+  <a href="https://github.com/fastlane/fastlane/tree/master/frameit">frameit</a> 
+  <a href="https://github.com/fastlane/fastlane/tree/master/pem">pem</a> 
+  <a href="https://github.com/fastlane/fastlane/tree/master/sigh">sigh</a> 
+  <a href="https://github.com/fastlane/fastlane/tree/master/produce">produce</a> 
+  <a href="https://github.com/fastlane/fastlane/tree/master/cert">cert</a> 
+  <a href="https://github.com/fastlane/fastlane/tree/master/spaceship">spaceship</a> 
+  <a href="https://github.com/fastlane/fastlane/tree/master/pilot">pilot</a> 
+  <a href="https://github.com/fastlane/boarding">boarding</a> 
+  <a href="https://github.com/fastlane/fastlane/tree/master/gym">gym</a> 
+  <a href="https://github.com/fastlane/fastlane/tree/master/scan">scan</a> 
   <a href="https://github.com/fastlane/fastlane/tree/master/match">match</a>
 </p>
 -------
