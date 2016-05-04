@@ -1,13 +1,15 @@
 <h3 align="center">
   <a href="https://github.com/fastlane/fastlane/tree/master/fastlane">
     <img src="../fastlane/assets/fastlane.png" width="150" />
-    <br />
-    fastlane
   </a>
+  <h4 align="center">
+    <a href="https://github.com/fastlane/fastlane/tree/master/fastlane">fastlane</a>
+    &bull;
+    <a href="https://github.com/fastlane/fastlane/tree/master/supply">supply</a>
+  </h4>
 </h3>
 <p align="center">
   <a href="https://github.com/fastlane/fastlane/tree/master/deliver">deliver</a> &bull;
-  <a href="https://github.com/fastlane/fastlane/tree/master/supply">supply</a> &bull;
   <a href="https://github.com/fastlane/fastlane/tree/master/snapshot">snapshot</a> &bull;
   <a href="https://github.com/fastlane/fastlane/tree/master/screengrab">screengrab</a> &bull;
   <a href="https://github.com/fastlane/fastlane/tree/master/frameit">frameit</a> &bull;
